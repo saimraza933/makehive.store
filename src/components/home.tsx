@@ -155,7 +155,7 @@ export default function Homepage() {
     e.preventDefault();
     if (email) {
       toast({
-        title: "Welcome to Make Hive! 🎨",
+        title: "Welcome to The Hive! 🐝",
         description: "You've successfully subscribed to our newsletter.",
       });
       setEmail("");
@@ -178,18 +178,18 @@ export default function Homepage() {
           <div className="max-w-3xl mx-auto text-center">
             <div className="inline-flex items-center gap-2 bg-white px-4 py-2 rounded-full shadow-sm mb-6">
               <Sparkles className="w-4 h-4 text-primary" />
-              <span className="text-sm font-medium">Buy, Sell & Learn DIY Crafts</span>
+              <span className="text-sm font-medium">Create, Share & Thrive Together</span>
             </div>
             
             <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              Your Complete
+              Your Creative
               <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                {" "}Craft Marketplace
+                {" "}Hive Community
               </span>
             </h1>
             
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Shop craft supplies, sell your creations, learn from expert tutorials, and join a vibrant community of makers. Everything you need for your crafting journey.
+              Join the buzz! Shop craft supplies, sell your creations, learn from expert tutorials, and connect with a thriving community of makers.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -215,7 +215,7 @@ export default function Homepage() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between mb-8">
             <div>
-              <h2 className="text-3xl font-bold mb-2">Featured Products</h2>
+              <h2 className="text-3xl font-bold mb-2">Hive Picks</h2>
               <p className="text-muted-foreground">Top-rated craft supplies and digital downloads</p>
             </div>
             <Link to="/shop">
@@ -259,7 +259,7 @@ export default function Homepage() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between mb-8">
             <div>
-              <h2 className="text-3xl font-bold mb-2">Featured Tutorials</h2>
+              <h2 className="text-3xl font-bold mb-2">Learn From The Hive</h2>
               <p className="text-muted-foreground">Handpicked projects to inspire your creativity</p>
             </div>
             <Link to="/tutorials">
@@ -304,7 +304,7 @@ export default function Homepage() {
           <div className="flex items-center gap-3 mb-8">
             <TrendingUp className="w-8 h-8 text-primary" />
             <div>
-              <h2 className="text-3xl font-bold">Trending Now</h2>
+              <h2 className="text-3xl font-bold">Buzzing Now</h2>
               <p className="text-muted-foreground">What crafters are loving this week</p>
             </div>
           </div>
@@ -380,9 +380,9 @@ export default function Homepage() {
                 <div className="w-16 h-16 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center mb-6">
                   <Store className="w-8 h-8 text-white" />
                 </div>
-                <h2 className="text-3xl font-bold mb-4">Start Selling Your Crafts</h2>
+                <h2 className="text-3xl font-bold mb-4">Become a Hive Seller</h2>
                 <p className="text-muted-foreground mb-6 text-lg">
-                  Join thousands of creators selling handmade items, digital patterns, and craft supplies on Make Hive. Set up your shop in minutes and reach a passionate community of crafters.
+                  Join thousands of makers selling handmade items, digital patterns, and craft supplies on Make Hive. Set up your shop in minutes and reach a thriving community of crafters.
                 </p>
                 <ul className="space-y-3 mb-6">
                   <li className="flex items-center gap-2">
@@ -429,7 +429,7 @@ export default function Homepage() {
             <div className="w-16 h-16 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center mx-auto mb-6">
               <Mail className="w-8 h-8 text-white" />
             </div>
-            <h2 className="text-3xl font-bold mb-4">Join Our Creative Community</h2>
+            <h2 className="text-3xl font-bold mb-4">Join The Hive Community</h2>
             <p className="text-muted-foreground mb-6">
               Get weekly tutorials, exclusive patterns, and crafting tips delivered to your inbox
             </p>

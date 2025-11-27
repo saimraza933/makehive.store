@@ -14,7 +14,7 @@ export default function Footer() {
     e.preventDefault();
     if (email) {
       toast({
-        title: "Successfully subscribed! 🎉",
+        title: "You're in the Hive! 🐝",
         description: "You'll receive weekly craft inspiration and exclusive patterns.",
       });
       setEmail("");
@@ -36,7 +36,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm mb-4">
-              Empowering creativity through accessible DIY craft tutorials and inspiring projects.
+              Buzz into creativity! Your hive for DIY craft tutorials, supplies, and a thriving maker community.
             </p>
             <div className="text-xs text-muted-foreground space-y-1">
               <p className="font-semibold">Make Hive LLC</p>
@@ -110,7 +110,7 @@ export default function Footer() {
           <div>
             <h3 className="font-bold mb-4">Stay Connected</h3>
             <p className="text-sm text-muted-foreground mb-4">
-              Get weekly craft inspiration and exclusive patterns.
+              Get the buzz on weekly craft inspiration and exclusive patterns.
             </p>
             <form onSubmit={handleSubscribe} className="flex flex-col gap-2">
               <Input

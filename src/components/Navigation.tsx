@@ -30,7 +30,7 @@ export default function Navigation() {
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent leading-none">
                 Make Hive
               </span>
-              <span className="text-[10px] text-muted-foreground italic">Where Creativity Blooms</span>
+              <span className="text-[10px] text-muted-foreground italic">Buzz Into Creativity</span>
             </div>
           </Link>
 

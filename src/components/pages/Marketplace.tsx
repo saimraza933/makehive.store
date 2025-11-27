@@ -137,9 +137,9 @@ export default function Marketplace() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Craft Marketplace</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">The Hive Market</h1>
               <p className="text-xl text-muted-foreground max-w-2xl">
-                Download premium patterns, templates, and guides to elevate your crafting projects
+                Download premium patterns, templates, and guides to sweeten your crafting projects
               </p>
             </div>
             <Button size="lg" className="hidden md:flex items-center gap-2">

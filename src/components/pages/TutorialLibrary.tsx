@@ -145,9 +145,9 @@ export default function TutorialLibrary() {
       {/* Header */}
       <section className="bg-gradient-to-r from-primary/10 via-secondary/10 to-accent/10 py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Tutorial Library</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">The Hive Academy</h1>
           <p className="text-xl text-muted-foreground max-w-2xl">
-            Browse our complete collection of step-by-step craft tutorials. Filter by difficulty,
+            Learn from the colony! Browse our complete collection of step-by-step craft tutorials. Filter by difficulty,
             category, or season to find your perfect project.
           </p>
         </div>

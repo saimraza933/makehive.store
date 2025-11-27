@@ -1330,9 +1330,9 @@ export default function Shop() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Craft Shop</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">The Hive Shop</h1>
               <p className="text-xl text-muted-foreground max-w-2xl">
-                Shop craft supplies, digital patterns, and handmade items from talented creators
+                Discover craft supplies, digital patterns, and handmade treasures from our talented maker community
               </p>
             </div>
             <Sheet open={cartOpen} onOpenChange={setCartOpen}>

@@ -119,10 +119,10 @@ export default function Sell() {
             <div>
               <Badge className="mb-4">Seller Program</Badge>
               <h1 className="text-5xl md:text-6xl font-bold mb-6">
-                Turn Your Craft Passion Into Profit
+                Make Honey From Your Creativity
               </h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Join Make Hive's marketplace and sell your handmade items, digital patterns, and craft supplies to thousands of eager buyers. No upfront costs, easy setup, and full support.
+                Join the Make Hive marketplace and sell your handmade items, digital patterns, and craft supplies to thousands of eager buyers. No upfront costs, easy setup, and full hive support.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="text-lg px-8" onClick={() => setIsRegistrationOpen(true)}>
@@ -156,9 +156,9 @@ export default function Sell() {
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-4">Why Sell on Make Hive?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Join The Hive?</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Everything you need to build a successful craft business
+              Sweet tools to build a thriving craft business
             </p>
           </div>
 

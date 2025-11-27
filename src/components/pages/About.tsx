@@ -63,9 +63,9 @@ export default function About() {
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-primary/10 via-secondary/10 to-accent/10 py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">About Make Hive LLC</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">About Make Hive</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Your complete DIY crafts marketplace - empowering creativity through accessible tutorials, quality supplies, and a vibrant community of makers
+            Where makers swarm together - empowering creativity through accessible tutorials, quality supplies, and a thriving community of crafters
           </p>
         </div>
       </section>

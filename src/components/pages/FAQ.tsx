@@ -149,9 +149,9 @@ export default function FAQ() {
       <section className="bg-gradient-to-br from-primary/10 via-secondary/10 to-accent/10 py-16">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-5xl font-bold mb-4">Frequently Asked Questions</h1>
+            <h1 className="text-5xl font-bold mb-4">The Hive Help Center</h1>
             <p className="text-xl text-muted-foreground mb-8">
-              Find answers to common questions about Make Hive
+              Get the buzz on everything Make Hive - answers to all your questions
             </p>
 
             {/* Search */}

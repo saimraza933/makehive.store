@@ -131,9 +131,9 @@ export default function Videos() {
       {/* Header */}
       <section className="bg-gradient-to-r from-primary/10 via-secondary/10 to-accent/10 py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Video Tutorials</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hive TV</h1>
           <p className="text-xl text-muted-foreground max-w-2xl">
-            Watch step-by-step video guides from expert crafters. Learn new techniques and follow along at your own pace.
+            Watch step-by-step video guides from expert crafters. Learn new techniques and craft along at your own pace.
           </p>
         </div>
       </section>
