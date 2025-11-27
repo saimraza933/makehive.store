@@ -32,19 +32,19 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email Us",
-      description: "sales@craftbloom.net",
+      description: "sales@makehive.store",
       action: "Send Email",
     },
     {
       icon: Phone,
       title: "Call Us",
-      description: "+1 (480) 210-1019",
+      description: "+1 864 214 9115",
       action: "Call Now",
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      description: "740 Pearl St Boulder, CO 80302",
+      description: "2445 Lawrence St Denver, CO 80205",
       action: "Get Directions",
     },
   ];
@@ -53,7 +53,7 @@ export default function Contact() {
     {
       icon: HelpCircle,
       title: "General Support",
-      description: "Questions about using CraftBloom",
+      description: "Questions about using Make Hive",
     },
     {
       icon: Store,
@@ -208,9 +208,9 @@ export default function Contact() {
 
           <div className="max-w-3xl mx-auto space-y-4">
             <Card className="p-6">
-              <h3 className="font-bold text-lg mb-2">How do I start selling on CraftBloom?</h3>
+              <h3 className="font-bold text-lg mb-2">How do I start selling on Make Hive?</h3>
               <p className="text-muted-foreground">
-                Visit our <a href="/sell" className="text-primary hover:underline">Sell on CraftBloom</a> page to learn about our seller program and create your account.
+                Visit our <a href="/sell" className="text-primary hover:underline">Sell on Make Hive</a> page to learn about our seller program and create your account.
               </p>
             </Card>
             <Card className="p-6">

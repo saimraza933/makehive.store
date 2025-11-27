@@ -1609,7 +1609,7 @@ export default function Shop() {
                               <div>
                                 <p className="text-sm font-semibold mb-1">Cash App Tag:</p>
                                 <div className="bg-white p-3 rounded border border-green-300 font-mono text-lg">
-                                  $CraftBloomLLC
+                                  $MakeHiveLLC
                                 </div>
                               </div>
                               <div>
@@ -1622,7 +1622,7 @@ export default function Shop() {
                                 <p className="text-sm font-semibold mb-2">📱 Instructions:</p>
                                 <ol className="text-sm space-y-1 list-decimal list-inside">
                                   <li>Open Cash App on your phone</li>
-                                  <li>Tap "Pay" and search for <strong>$CraftBloomLLC</strong></li>
+                                  <li>Tap "Pay" and search for <strong>$MakeHiveLLC</strong></li>
                                   <li>Enter amount: <strong>${(cartTotal + 5.99).toFixed(2)}</strong></li>
                                   <li>Add note: "Order {orderNumber || 'CB-XXXXXX'}"</li>
                                   <li>Complete payment and click "Place Order" below</li>

@@ -155,7 +155,7 @@ export default function Homepage() {
     e.preventDefault();
     if (email) {
       toast({
-        title: "Welcome to CraftBloom! 🎨",
+        title: "Welcome to Make Hive! 🎨",
         description: "You've successfully subscribed to our newsletter.",
       });
       setEmail("");
@@ -382,7 +382,7 @@ export default function Homepage() {
                 </div>
                 <h2 className="text-3xl font-bold mb-4">Start Selling Your Crafts</h2>
                 <p className="text-muted-foreground mb-6 text-lg">
-                  Join thousands of creators selling handmade items, digital patterns, and craft supplies on CraftBloom. Set up your shop in minutes and reach a passionate community of crafters.
+                  Join thousands of creators selling handmade items, digital patterns, and craft supplies on Make Hive. Set up your shop in minutes and reach a passionate community of crafters.
                 </p>
                 <ul className="space-y-3 mb-6">
                   <li className="flex items-center gap-2">

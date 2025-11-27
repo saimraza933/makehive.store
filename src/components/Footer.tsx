@@ -32,18 +32,18 @@ export default function Footer() {
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                CraftBloom
+                Make Hive
               </span>
             </Link>
             <p className="text-muted-foreground text-sm mb-4">
               Empowering creativity through accessible DIY craft tutorials and inspiring projects.
             </p>
             <div className="text-xs text-muted-foreground space-y-1">
-              <p className="font-semibold">CraftBloom LLC</p>
-              <p>740 Pearl St</p>
-              <p>Boulder, CO 80302</p>
-              <p className="mt-2">Phone: +1 (480) 210-1019</p>
-              <p>Email: sales@craftbloom.net</p>
+              <p className="font-semibold">Make Hive LLC</p>
+              <p>2445 Lawrence St</p>
+              <p>Denver, CO 80205</p>
+              <p className="mt-2">Phone: +1 864 214 9115</p>
+              <p>Email: sales@makehive.store</p>
             </div>
           </div>
 
@@ -73,7 +73,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link to="/sell" className="text-muted-foreground hover:text-primary transition-colors">
-                  Sell on CraftBloom
+                  Sell on Make Hive
                 </Link>
               </li>
             </ul>
@@ -130,7 +130,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-          <p>© {currentYear} CraftBloom. All rights reserved.</p>
+          <p>© {currentYear} Make Hive. All rights reserved.</p>
           <div className="flex flex-wrap justify-center gap-4 md:gap-6">
             <Link to="/privacy" className="hover:text-primary transition-colors">
               Privacy Policy

@@ -16,11 +16,11 @@ export default function FAQ() {
       category: "General",
       questions: [
         {
-          q: "What is CraftBloom?",
-          a: "CraftBloom is an online marketplace and learning platform dedicated to DIY crafts, handmade items, and creative tutorials. We connect craft enthusiasts with unique products, downloadable patterns, and step-by-step video tutorials."
+          q: "What is Make Hive?",
+          a: "Make Hive is an online marketplace and learning platform dedicated to DIY crafts, handmade items, and creative tutorials. We connect craft enthusiasts with unique products, downloadable patterns, and step-by-step video tutorials."
         },
         {
-          q: "Is CraftBloom free to use?",
+          q: "Is Make Hive free to use?",
           a: "Yes! Browsing tutorials, watching videos, and exploring our marketplace is completely free. Some premium patterns and products require purchase, and sellers pay a small commission on sales."
         },
         {
@@ -68,14 +68,14 @@ export default function FAQ() {
       ]
     },
     {
-      category: "Selling on CraftBloom",
+      category: "Selling on Make Hive",
       questions: [
         {
           q: "How do I become a seller?",
-          a: "Visit our 'Sell on CraftBloom' page and click 'Create Seller Account'. Complete the application form, and we'll review it within 24-48 hours. Once approved, you can start listing products immediately."
+          a: "Visit our 'Sell on Make Hive' page and click 'Create Seller Account'. Complete the application form, and we'll review it within 24-48 hours. Once approved, you can start listing products immediately."
         },
         {
-          q: "What can I sell on CraftBloom?",
+          q: "What can I sell on Make Hive?",
           a: "You can sell handmade physical items, digital downloads (patterns, templates, printables), craft supplies, and DIY kits. All items must be craft-related and comply with our seller guidelines."
         },
         {
@@ -151,7 +151,7 @@ export default function FAQ() {
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-4">Frequently Asked Questions</h1>
             <p className="text-xl text-muted-foreground mb-8">
-              Find answers to common questions about CraftBloom
+              Find answers to common questions about Make Hive
             </p>
 
             {/* Search */}

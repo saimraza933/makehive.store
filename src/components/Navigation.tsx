@@ -12,7 +12,7 @@ export default function Navigation() {
     { path: "/shop", label: "Shop", icon: ShoppingBag },
     { path: "/tutorials", label: "Tutorials", icon: BookOpen },
     { path: "/videos", label: "Videos", icon: Video },
-    { path: "/sell", label: "Sell on CraftBloom", icon: Store },
+    { path: "/sell", label: "Sell on Make Hive", icon: Store },
     { path: "/about", label: "About", icon: Info },
     { path: "/contact", label: "Contact", icon: Phone },
   ];
@@ -28,7 +28,7 @@ export default function Navigation() {
             </div>
             <div className="flex flex-col">
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent leading-none">
-                CraftBloom
+                Make Hive
               </span>
               <span className="text-[10px] text-muted-foreground italic">Where Creativity Blooms</span>
             </div>

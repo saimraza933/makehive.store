@@ -25,7 +25,7 @@ export default function RefundPolicy() {
           <Alert className="mb-8">
             <AlertCircle className="h-5 w-5" />
             <AlertDescription>
-              This policy outlines CraftBloom's refund guidelines. Individual sellers may have additional policies. Please review seller-specific policies before purchasing.
+              This policy outlines Make Hive's refund guidelines. Individual sellers may have additional policies. Please review seller-specific policies before purchasing.
             </AlertDescription>
           </Alert>
 
@@ -33,7 +33,7 @@ export default function RefundPolicy() {
             <div className="prose prose-lg max-w-none">
               <h2 className="text-3xl font-bold mb-6">1. Overview</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                At CraftBloom, we want you to be completely satisfied with your purchase. This Refund Policy explains your rights and responsibilities when requesting a refund or return. Because CraftBloom is a marketplace connecting buyers with independent sellers, refund policies may vary by seller.
+                At Make Hive, we want you to be completely satisfied with your purchase. This Refund Policy explains your rights and responsibilities when requesting a refund or return. Because Make Hive is a marketplace connecting buyers with independent sellers, refund policies may vary by seller.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">2. Physical Products</h2>
@@ -103,7 +103,7 @@ export default function RefundPolicy() {
               <h2 className="text-3xl font-bold mb-6 mt-10">4. How to Request a Refund</h2>
               <h3 className="text-xl font-semibold mb-4">4.1 Contact the Seller First</h3>
               <ol className="list-decimal pl-6 mb-6 text-muted-foreground space-y-2">
-                <li>Log into your CraftBloom account</li>
+                <li>Log into your Make Hive account</li>
                 <li>Go to "My Orders" and find the order</li>
                 <li>Click "Contact Seller" to explain the issue</li>
                 <li>Provide photos if the item is damaged or not as described</li>
@@ -116,7 +116,7 @@ export default function RefundPolicy() {
                 <li>Click "Request Refund" on your order page</li>
                 <li>Select reason for refund request</li>
                 <li>Upload supporting documentation (photos, messages)</li>
-                <li>Submit request to CraftBloom support team</li>
+                <li>Submit request to Make Hive support team</li>
                 <li>We'll review and respond within 3-5 business days</li>
               </ol>
 
@@ -159,7 +159,7 @@ export default function RefundPolicy() {
 
               <h2 className="text-3xl font-bold mb-6 mt-10">7. Exchanges</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                CraftBloom does not directly facilitate exchanges. If you want a different size, color, or style, contact the seller to arrange an exchange. Most sellers are happy to accommodate exchange requests if inventory is available. You may need to pay shipping costs for exchanges.
+                Make Hive does not directly facilitate exchanges. If you want a different size, color, or style, contact the seller to arrange an exchange. Most sellers are happy to accommodate exchange requests if inventory is available. You may need to pay shipping costs for exchanges.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">8. Damaged or Lost in Shipping</h2>
@@ -180,26 +180,26 @@ export default function RefundPolicy() {
 
               <h2 className="text-3xl font-bold mb-6 mt-10">9. Fraudulent Claims</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                CraftBloom takes fraud seriously. Abusing our refund policy (false damage claims, keeping items after refund, etc.) will result in account suspension or termination. We may report fraudulent activity to law enforcement.
+                Make Hive takes fraud seriously. Abusing our refund policy (false damage claims, keeping items after refund, etc.) will result in account suspension or termination. We may report fraudulent activity to law enforcement.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">10. Seller Responsibilities</h2>
-              <p className="mb-2 text-muted-foreground">Sellers on CraftBloom must:</p>
+              <p className="mb-2 text-muted-foreground">Sellers on Make Hive must:</p>
               <ul className="list-disc pl-6 mb-6 text-muted-foreground space-y-2">
                 <li>Respond to refund requests within 48 hours</li>
                 <li>Process approved refunds within 3 business days of receiving returned items</li>
                 <li>Clearly state any additional return/refund policies in their shop policies</li>
-                <li>Honor CraftBloom's minimum refund standards</li>
+                <li>Honor Make Hive's minimum refund standards</li>
                 <li>Provide accurate product descriptions to minimize returns</li>
               </ul>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">11. Contact Us</h2>
               <p className="mb-2 text-muted-foreground">For questions about refunds or returns:</p>
               <ul className="list-none mb-6 text-muted-foreground space-y-2">
-                <li>Email: sales@craftbloom.net</li>
-                <li>Phone: +1 (480) 210-1019</li>
-                <li>Address: 740 Pearl St Boulder, CO 80302</li>
-                <li>Website: www.craftbloom.net</li>
+                <li>Email: sales@makehive.store</li>
+                <li>Phone: +1 864 214 9115</li>
+                <li>Address: 2445 Lawrence St Denver, CO 80205</li>
+                <li>Website: www.makehive.store</li>
                 <li>Visit our Contact page</li>
                 <li>Live chat during business hours (9am-5pm EST)</li>
               </ul>
@@ -207,9 +207,9 @@ export default function RefundPolicy() {
               <div className="mt-10 p-6 bg-primary/10 rounded-lg">
                 <h3 className="text-lg font-semibold mb-2">Important Notes</h3>
                 <ul className="text-sm text-muted-foreground space-y-2">
-                  <li>• This policy applies to purchases made on CraftBloom's platform</li>
+                  <li>• This policy applies to purchases made on Make Hive's platform</li>
                   <li>• Individual sellers may have more generous return policies - always check seller policies</li>
-                  <li>• CraftBloom reserves the right to mediate disputes and make final refund decisions</li>
+                  <li>• Make Hive reserves the right to mediate disputes and make final refund decisions</li>
                   <li>• We may update this policy; check back regularly for changes</li>
                 </ul>
               </div>

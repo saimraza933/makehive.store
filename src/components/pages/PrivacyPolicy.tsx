@@ -24,7 +24,7 @@ export default function PrivacyPolicy() {
             <div className="prose prose-lg max-w-none">
               <h2 className="text-3xl font-bold mb-6">1. Introduction</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                CraftBloom ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and protect your personal information when you use our website and services.
+                Make Hive ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and protect your personal information when you use our website and services.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">2. Information We Collect</h2>
@@ -94,7 +94,7 @@ export default function PrivacyPolicy() {
 
               <h3 className="text-xl font-semibold mb-4">4.4 Business Transfers</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                If CraftBloom is involved in a merger, acquisition, or sale of assets, your information may be transferred. We will notify you before your information becomes subject to a different privacy policy.
+                If Make Hive is involved in a merger, acquisition, or sale of assets, your information may be transferred. We will notify you before your information becomes subject to a different privacy policy.
               </p>
 
               <p className="mb-6 text-muted-foreground leading-relaxed">
@@ -126,7 +126,7 @@ export default function PrivacyPolicy() {
                 <li><strong>Restriction:</strong> Request restriction of processing your data</li>
               </ul>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                To exercise these rights, contact us at privacy@craftbloom.com or through your account settings.
+                To exercise these rights, contact us at privacy@makehive.store or through your account settings.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">7. Cookies and Tracking Technologies</h2>
@@ -157,7 +157,7 @@ export default function PrivacyPolicy() {
 
               <h2 className="text-3xl font-bold mb-6 mt-10">9. Children's Privacy</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                CraftBloom is not intended for users under 18 years of age. We do not knowingly collect personal information from children. If we learn we have collected information from a child under 18, we will delete it immediately. If you believe a child has provided us information, contact us at privacy@craftbloom.com.
+                Make Hive is not intended for users under 18 years of age. We do not knowingly collect personal information from children. If we learn we have collected information from a child under 18, we will delete it immediately. If you believe a child has provided us information, contact us at privacy@makehive.store.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">10. International Data Transfers</h2>
@@ -172,23 +172,23 @@ export default function PrivacyPolicy() {
 
               <h2 className="text-3xl font-bold mb-6 mt-10">12. Changes to This Policy</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                We may update this Privacy Policy from time to time. We will notify you of significant changes by email or through a notice on our website. The "Last Updated" date at the top indicates when changes were made. Your continued use of CraftBloom after changes constitutes acceptance of the updated policy.
+                We may update this Privacy Policy from time to time. We will notify you of significant changes by email or through a notice on our website. The "Last Updated" date at the top indicates when changes were made. Your continued use of Make Hive after changes constitutes acceptance of the updated policy.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">13. Contact Us</h2>
               <p className="mb-2 text-muted-foreground">If you have questions or concerns about this Privacy Policy:</p>
               <ul className="list-none mb-6 text-muted-foreground space-y-2">
-                <li>Email: sales@craftbloom.net</li>
-                <li>Phone: +1 (480) 210-1019</li>
-                <li>Address: 740 Pearl St Boulder, CO 80302</li>
-                <li>Website: www.craftbloom.net</li>
+                <li>Email: sales@makehive.store</li>
+                <li>Phone: +1 864 214 9115</li>
+                <li>Address: 2445 Lawrence St Denver, CO 80205</li>
+                <li>Website: www.makehive.store</li>
                 <li>Visit our Contact page</li>
               </ul>
 
               <div className="mt-10 p-6 bg-primary/10 rounded-lg">
                 <h3 className="text-lg font-semibold mb-2">California Residents (CCPA)</h3>
                 <p className="text-sm text-muted-foreground">
-                  California residents have additional rights under the California Consumer Privacy Act (CCPA). You have the right to know what personal information is collected, to delete personal information, and to opt-out of the sale of personal information (note: we do not sell personal information). To exercise these rights, contact sales@craftbloom.net.
+                  California residents have additional rights under the California Consumer Privacy Act (CCPA). You have the right to know what personal information is collected, to delete personal information, and to opt-out of the sale of personal information (note: we do not sell personal information). To exercise these rights, contact sales@makehive.store.
                 </p>
               </div>
 

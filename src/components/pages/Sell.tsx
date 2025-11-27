@@ -122,7 +122,7 @@ export default function Sell() {
                 Turn Your Craft Passion Into Profit
               </h1>
               <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Join CraftBloom's marketplace and sell your handmade items, digital patterns, and craft supplies to thousands of eager buyers. No upfront costs, easy setup, and full support.
+                Join Make Hive's marketplace and sell your handmade items, digital patterns, and craft supplies to thousands of eager buyers. No upfront costs, easy setup, and full support.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="text-lg px-8" onClick={() => setIsRegistrationOpen(true)}>
@@ -156,7 +156,7 @@ export default function Sell() {
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-4">Why Sell on CraftBloom?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Sell on Make Hive?</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Everything you need to build a successful craft business
             </p>
@@ -332,7 +332,7 @@ export default function Sell() {
               </p>
             </Card>
             <Card className="p-6">
-              <h3 className="font-bold text-lg mb-2">What can I sell on CraftBloom?</h3>
+              <h3 className="font-bold text-lg mb-2">What can I sell on Make Hive?</h3>
               <p className="text-muted-foreground">
                 You can sell handmade crafts, digital patterns, templates, printables, craft supplies, and DIY kits. All items must be craft-related and meet our quality guidelines.
               </p>
@@ -359,7 +359,7 @@ export default function Sell() {
           <Card className="p-12 text-center bg-white shadow-xl max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold mb-4">Ready to Start Your Craft Business?</h2>
             <p className="text-muted-foreground mb-8 text-lg">
-              Join thousands of successful sellers on CraftBloom and turn your creativity into income.
+              Join thousands of successful sellers on Make Hive and turn your creativity into income.
             </p>
             <Button size="lg" className="text-lg px-12" onClick={() => setIsRegistrationOpen(true)}>
               <Store className="w-5 h-5 mr-2" />
@@ -378,7 +378,7 @@ export default function Sell() {
           <DialogHeader>
             <DialogTitle className="text-2xl">Create Your Seller Account</DialogTitle>
             <DialogDescription>
-              Fill out the form below to start selling on CraftBloom
+              Fill out the form below to start selling on Make Hive
             </DialogDescription>
           </DialogHeader>
 

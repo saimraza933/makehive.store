@@ -24,13 +24,13 @@ export default function TermsOfService() {
             <div className="prose prose-lg max-w-none">
               <h2 className="text-3xl font-bold mb-6">1. Agreement to Terms</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                By accessing and using CraftBloom ("the Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Service.
+                By accessing and using Make Hive ("the Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Service.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">2. Use of Service</h2>
               <h3 className="text-xl font-semibold mb-4">2.1 Eligibility</h3>
               <p className="mb-4 text-muted-foreground leading-relaxed">
-                You must be at least 18 years old to use CraftBloom. By using the Service, you represent and warrant that you meet this age requirement.
+                You must be at least 18 years old to use Make Hive. By using the Service, you represent and warrant that you meet this age requirement.
               </p>
 
               <h3 className="text-xl font-semibold mb-4">2.2 Account Registration</h3>
@@ -90,50 +90,50 @@ export default function TermsOfService() {
 
               <h3 className="text-xl font-semibold mb-4">4.3 Refunds</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                Refund eligibility is determined by our Refund Policy and individual seller policies. CraftBloom reserves the right to issue refunds at our discretion in cases of fraud or significant policy violations.
+                Refund eligibility is determined by our Refund Policy and individual seller policies. Make Hive reserves the right to issue refunds at our discretion in cases of fraud or significant policy violations.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">5. Intellectual Property</h2>
-              <h3 className="text-xl font-semibold mb-4">5.1 CraftBloom Content</h3>
+              <h3 className="text-xl font-semibold mb-4">5.1 Make Hive Content</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                All content on CraftBloom, including logos, designs, text, graphics, and software, is owned by CraftBloom or licensed to us. You may not copy, reproduce, or distribute this content without written permission.
+                All content on Make Hive, including logos, designs, text, graphics, and software, is owned by Make Hive or licensed to us. You may not copy, reproduce, or distribute this content without written permission.
               </p>
 
               <h3 className="text-xl font-semibold mb-4">5.2 User Content</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                You retain ownership of content you create and upload (tutorials, product listings, reviews). By uploading content, you grant CraftBloom a non-exclusive, worldwide license to use, display, and distribute your content on our platform. You represent that you have all necessary rights to grant this license.
+                You retain ownership of content you create and upload (tutorials, product listings, reviews). By uploading content, you grant Make Hive a non-exclusive, worldwide license to use, display, and distribute your content on our platform. You represent that you have all necessary rights to grant this license.
               </p>
 
               <h3 className="text-xl font-semibold mb-4">5.3 Copyright Infringement</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                We respect intellectual property rights. If you believe content on CraftBloom infringes your copyright, please contact us with detailed information. Repeated copyright violations will result in account termination.
+                We respect intellectual property rights. If you believe content on Make Hive infringes your copyright, please contact us with detailed information. Repeated copyright violations will result in account termination.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">6. Privacy and Data</h2>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                Your privacy is important to us. Our Privacy Policy explains how we collect, use, and protect your personal information. By using CraftBloom, you consent to our data practices as described in the Privacy Policy.
+                Your privacy is important to us. Our Privacy Policy explains how we collect, use, and protect your personal information. By using Make Hive, you consent to our data practices as described in the Privacy Policy.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">7. Disclaimers and Limitation of Liability</h2>
               <h3 className="text-xl font-semibold mb-4">7.1 Service Provided "As Is"</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                CraftBloom is provided "as is" without warranties of any kind. We do not guarantee uninterrupted or error-free service. We are not responsible for content accuracy, quality of products, or interactions between buyers and sellers.
+                Make Hive is provided "as is" without warranties of any kind. We do not guarantee uninterrupted or error-free service. We are not responsible for content accuracy, quality of products, or interactions between buyers and sellers.
               </p>
 
               <h3 className="text-xl font-semibold mb-4">7.2 Limitation of Liability</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                To the maximum extent permitted by law, CraftBloom shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Service. Our total liability shall not exceed the amount you paid to CraftBloom in the past 12 months.
+                To the maximum extent permitted by law, Make Hive shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Service. Our total liability shall not exceed the amount you paid to Make Hive in the past 12 months.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">8. Dispute Resolution</h2>
               <h3 className="text-xl font-semibold mb-4">8.1 Buyer-Seller Disputes</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                Users should first attempt to resolve disputes directly. If resolution cannot be reached, either party may contact CraftBloom support for mediation. Our decision in disputes is final.
+                Users should first attempt to resolve disputes directly. If resolution cannot be reached, either party may contact Make Hive support for mediation. Our decision in disputes is final.
               </p>
 
               <h3 className="text-xl font-semibold mb-4">8.2 Arbitration</h3>
               <p className="mb-6 text-muted-foreground leading-relaxed">
-                Any disputes between you and CraftBloom shall be resolved through binding arbitration rather than in court, except where prohibited by law. You waive your right to participate in class action lawsuits.
+                Any disputes between you and Make Hive shall be resolved through binding arbitration rather than in court, except where prohibited by law. You waive your right to participate in class action lawsuits.
               </p>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">9. Termination</h2>
@@ -155,25 +155,25 @@ export default function TermsOfService() {
 
               <h2 className="text-3xl font-bold mb-6 mt-10">11. General Provisions</h2>
               <ul className="list-disc pl-6 mb-6 text-muted-foreground space-y-2">
-                <li><strong>Governing Law:</strong> These Terms are governed by the laws of the United States and the state in which CraftBloom is registered</li>
+                <li><strong>Governing Law:</strong> These Terms are governed by the laws of the United States and the state in which Make Hive is registered</li>
                 <li><strong>Severability:</strong> If any provision is found unenforceable, the remaining provisions remain in effect</li>
-                <li><strong>Entire Agreement:</strong> These Terms constitute the entire agreement between you and CraftBloom</li>
+                <li><strong>Entire Agreement:</strong> These Terms constitute the entire agreement between you and Make Hive</li>
                 <li><strong>No Waiver:</strong> Our failure to enforce any right does not waive that right</li>
               </ul>
 
               <h2 className="text-3xl font-bold mb-6 mt-10">12. Contact Information</h2>
               <p className="mb-2 text-muted-foreground">For questions about these Terms, contact us:</p>
               <ul className="list-none mb-6 text-muted-foreground space-y-2">
-                <li>Email: sales@craftbloom.net</li>
-                <li>Phone: +1 (480) 210-1019</li>
-                <li>Address: 740 Pearl St Boulder, CO 80302</li>
-                <li>Website: www.craftbloom.net</li>
+                <li>Email: sales@makehive.store</li>
+                <li>Phone: +1 864 214 9115</li>
+                <li>Address: 2445 Lawrence St Denver, CO 80205</li>
+                <li>Website: www.makehive.store</li>
                 <li>Through our Contact page</li>
               </ul>
 
               <div className="mt-10 p-6 bg-primary/10 rounded-lg">
                 <p className="text-sm text-muted-foreground">
-                  <strong>Note:</strong> By using CraftBloom, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+                  <strong>Note:</strong> By using Make Hive, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
                 </p>
               </div>
             </div>

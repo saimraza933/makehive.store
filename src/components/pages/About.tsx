@@ -63,7 +63,7 @@ export default function About() {
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-primary/10 via-secondary/10 to-accent/10 py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6">About CraftBloom LLC</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">About Make Hive LLC</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Your complete DIY crafts marketplace - empowering creativity through accessible tutorials, quality supplies, and a vibrant community of makers
           </p>
@@ -78,16 +78,16 @@ export default function About() {
               <h2 className="text-4xl font-bold mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
                 <p>
-                  CraftBloom LLC was founded in 2020 with a simple mission: to create the world's most comprehensive platform for craft enthusiasts to learn, shop, and sell.
+                  Make Hive LLC was founded in 2020 with a simple mission: to create the world's most comprehensive platform for craft enthusiasts to learn, shop, and sell.
                 </p>
                 <p>
                   What started as a small blog by founder Sarah Mitchell has grown into a thriving marketplace connecting thousands of crafters, sellers, and learners worldwide. We've built more than just a platform—we've created a community.
                 </p>
                 <p>
-                  Today, CraftBloom serves as a complete ecosystem for the crafting world. Whether you're looking to learn a new skill through our video tutorials, shop for unique handmade items and supplies, or start your own craft business by selling your creations, we provide all the tools you need.
+                  Today, Make Hive serves as a complete ecosystem for the crafting world. Whether you're looking to learn a new skill through our video tutorials, shop for unique handmade items and supplies, or start your own craft business by selling your creations, we provide all the tools you need.
                 </p>
                 <p>
-                  As CraftBloom LLC, we're committed to supporting independent creators, fostering creativity, and making crafting accessible to everyone—from curious beginners to professional artisans.
+                  As Make Hive LLC, we're committed to supporting independent creators, fostering creativity, and making crafting accessible to everyone—from curious beginners to professional artisans.
                 </p>
               </div>
             </div>
@@ -112,7 +112,7 @@ export default function About() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">Our Mission</h2>
             <p className="text-xl text-muted-foreground leading-relaxed mb-8">
-              At CraftBloom LLC, we believe creativity should be accessible to everyone. Our mission is to provide a comprehensive platform where crafters can:
+              At Make Hive LLC, we believe creativity should be accessible to everyone. Our mission is to provide a comprehensive platform where crafters can:
             </p>
             <div className="grid md:grid-cols-3 gap-6 text-left">
               <Card className="p-6">
@@ -171,7 +171,7 @@ export default function About() {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4">Meet Our Team</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              The creative minds behind CraftBloom
+              The creative minds behind Make Hive
             </p>
           </div>
 
@@ -200,7 +200,7 @@ export default function About() {
       <section className="py-16 bg-gradient-to-r from-primary/10 via-secondary/10 to-accent/10">
         <div className="container mx-auto px-4">
           <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold">CraftBloom by the Numbers</h2>
+            <h2 className="text-3xl font-bold">Make Hive by the Numbers</h2>
           </div>
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div>
