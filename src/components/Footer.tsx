@@ -28,10 +28,16 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-4 group">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center">
-                <Sparkles className="w-5 h-5 text-white" />
+              <div className="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center shadow-md">
+                <svg viewBox="0 0 24 24" className="w-6 h-6" fill="none">
+                  <path d="M12 3L18 8V14L12 19L6 14V8L12 3Z" fill="#FFF5CC" stroke="white" strokeWidth="1"/>
+                  <ellipse cx="12" cy="11" rx="3" ry="4" fill="#FFD700"/>
+                  <path d="M9 10Q12 8 15 10" stroke="#333" strokeWidth="1" fill="none"/>
+                  <circle cx="10" cy="9.5" r="0.8" fill="#333"/>
+                  <circle cx="14" cy="9.5" r="0.8" fill="#333"/>
+                </svg>
               </div>
-              <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+              <span className="text-2xl font-bold bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
                 Make Hive
               </span>
             </Link>

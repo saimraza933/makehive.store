@@ -23,11 +23,17 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 group">
-            <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center transform group-hover:scale-110 transition-transform">
-              <Sparkles className="w-5 h-5 text-white" />
+            <div className="w-10 h-10 bg-gradient-to-br from-amber-400 to-orange-500 rounded-xl flex items-center justify-center transform group-hover:scale-110 transition-transform shadow-md">
+              <svg viewBox="0 0 24 24" className="w-6 h-6" fill="none">
+                <path d="M12 3L18 8V14L12 19L6 14V8L12 3Z" fill="#FFF5CC" stroke="white" strokeWidth="1"/>
+                <ellipse cx="12" cy="11" rx="3" ry="4" fill="#FFD700"/>
+                <path d="M9 10Q12 8 15 10" stroke="#333" strokeWidth="1" fill="none"/>
+                <circle cx="10" cy="9.5" r="0.8" fill="#333"/>
+                <circle cx="14" cy="9.5" r="0.8" fill="#333"/>
+              </svg>
             </div>
             <div className="flex flex-col">
-              <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent leading-none">
+              <span className="text-2xl font-bold bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent leading-none">
                 Make Hive
               </span>
               <span className="text-[10px] text-muted-foreground italic">Buzz Into Creativity</span>
